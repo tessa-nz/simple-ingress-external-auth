@@ -7,6 +7,8 @@
 
 Easy and simple Kubernetes ingress authentication.
 
+Why fork? We needed more logs. Everything else should be the same.
+
 ## How does it work
 
 Most kubernetes ingress have a way of delegating the authentication to an external auth system.
